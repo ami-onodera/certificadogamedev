@@ -1,2 +1,1 @@
-# certificadogamedev
-Certificado de conclusão do curso Imersão GameDeve da Alura
+# certificado da Imersão Gamedev JavaScript
