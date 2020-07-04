@@ -12,5 +12,5 @@ This is the course completion certificate from the GameDeve JavaScript immersion
 Certificate: https://ami-onodera.github.io/certificadogamedev <br>
 Game developed during this course: https://ami-onodera.github.io/runnerwitch 
 <br>
-**Second Place Winner**
+**Second Place Winner** <br>
 My game was voted the second best among over 1900 projects! See the official rank: https://imersao-gamedev.github.io/placar/
